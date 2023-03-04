@@ -8,23 +8,18 @@ Sonra ilgili kütüphaneleri yükle:
 
 #!pip install transformers==4.25.1
 #!pip show transformers
-#transformers==4.25.1
 
 #!pip install sentence-transformers==2.2.2
 #!pip show sentence_transformers
-#sentence-transformers==2.2.2
 
 #!pip install torch==1.9.0
 #!pip show torch
-#torch==1.9.0
 
 #!pip install requests
 #!pip show requests
-#requests==2.28.1
 
 #!pip install bs4
 #!pip show bs4
-#bs4==0.0.1
 
 NetDevOps Search Engine With Semantic Text Matching.ipynb dosyasinda yazmis oldugum gibi once anlamsal metin eşleştirme (semantic textmatching) modelini lokaline download et
 
