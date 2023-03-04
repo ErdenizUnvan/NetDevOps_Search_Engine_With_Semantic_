@@ -1,8 +1,8 @@
-# NetDevOps_Search_Engine_With_Semantic_
+# NetDevOps_Search_Engine_With_Semantic_Text_Matching
 
 İlk önce ilgili git clone:
 
-git clone https://github.com/ErdenizUnvan/NetDevOps_Search_Engine_With_Semantic_
+git clone https://github.com/ErdenizUnvan/NetDevOps_Search_Engine_With_Semantic_Text_Matching
 
 Sonra ilgili kütüphaneleri yükle:
 
