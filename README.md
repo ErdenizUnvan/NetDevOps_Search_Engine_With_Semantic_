@@ -80,7 +80,7 @@ for page in range(1,42271):
     print(len(results))
     
     
-Downlad edilmiş bu verinin duplicateler temizlendikten sonra sadece network otomasyon içeren soru ve cevapların yer aldığı dosya: 
+Downlad edilmiş bu verinin duplicateler temizlendikten sonra sadece network otomasyon konularını içeren soru ve cevapların yer aldığı dosya: 
 
 109036.csv
 
