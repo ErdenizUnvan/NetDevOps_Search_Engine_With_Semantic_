@@ -6,8 +6,8 @@ git clone https://github.com/ErdenizUnvan/NetDevOps_Search_Engine_With_Semantic_
 
 Sonra ilgili kütüphaneleri yükle:
 
-#!pip install transformers==4.25.1
-#!pip show transformers
+#!pip install transformers==4.25.1\n
+#!pip show transformers\n
 
 #!pip install sentence-transformers==2.2.2
 #!pip show sentence_transformers
